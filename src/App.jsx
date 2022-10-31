@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Profile from "./components/Profile";
 import Links from "./components/Links";
 import Brand from "./components/Brand";
+import Footer from "./components/Footer";
 
 
 
@@ -12,6 +13,7 @@ function App() {
       <Profile />
       <Links />
       <Brand />
+      <Footer />
     </div>
   );
 }
