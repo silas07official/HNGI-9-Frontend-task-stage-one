@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Profile from "./components/Profile";
 import Links from "./components/Links";
+import Brand from "./components/Brand";
 
 
 
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Profile />
       <Links />
+      <Brand />
     </div>
   );
 }
