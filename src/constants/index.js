@@ -16,7 +16,7 @@ export const btnLinks =[
     },
     {
         id: "book__python",
-        goto: 'https://books.zuri.team/python-for-beginners?ref_id=yourslackname',
+        goto: 'https://books.zuri.team/python-for-beginners?ref_id=silas07official',
         label:'Python Books'
     },
     {
